@@ -1,0 +1,61 @@
+type: "plugin-catalog"
+version: "1"
+name: "my-plugin-catalog"
+displayName: "My Plugin Catalog"
+configurations:
+  - description: "These are Non-CAP plugins for version 2.440.1.3"
+    prerequisites:
+      productVersion: "[2.440.1.3]"
+    includePlugins:
+      ansicolor:
+        version: "1.0.4"
+      badge:
+        version: "1.9.1"
+      cloudbees-disk-usage-simple:
+        version: "203.v3f46a_7462b_1a_"
+      cucumer-reports:
+        version: "5.8.1"
+      emailext-templates:
+        version: "1.2"
+      extended-choice-parameter:
+        version: "376.v2e02857547b_a_"
+      gkp-credentials-plgin:
+        version: "0.1.5"
+      http_request:
+        version: "1.18"
+      jenkins-telemetry:
+        version: "1.1.77"
+      job-dsl:
+        version: "1.87"
+      jpmc-pipeline-plugin:
+        version: "0.0.36.12"
+      jquery:
+        version: "1.12.4-1"
+      logfilesizechecker:
+        version: "1.5"
+      mask-passwords:
+        version: "173.v6a_077a_291eb_5"
+      maven-plugin:
+        version: "3.23"
+      mesos:
+        version: "2.0"
+      pipeline-jules-steps:
+        version: "3.5"
+      pipeline-utility-steps:
+        version: "2.16.2"
+      prometheus:
+        version: "2.5.1"
+      reverse-proxy-auth-plugin:
+        version: "1.7.7"
+      scm-plugin:
+        version: "1.0.22"
+      simple-theme-plugin:
+        version: "176.v39740c03a_a_f5"
+      versionnumber:
+        version: "1.11"
+      wikitext:
+        version: "3.16"
+      workflow-cps-global-lib:
+        version: "609.vd95673f149b_b"
+      xvfb:
+        version: "1.2"

@@ -1,0 +1,61 @@
+type: "plugin-catalog"
+version: "1"
+name: "my-plugin-catalog"
+displayName: "My Plugin Catalog (offline)"
+configurations:
+  - description: "These are Non-CAP plugins for version 2.440.1.3"
+    prerequisites:
+      productVersion: "[2.440.1.3]"
+    includePlugins:
+      ansicolor:
+        url: "https://jenkins-updates.cloudbees.com/download/plugins/ansicolor/1.0.4/ansicolor.hpi"
+      badge:
+        url: "https://jenkins-updates.cloudbees.com/download/plugins/badge/1.9.1/badge.hpi"
+      cloudbees-disk-usage-simple:
+        url: "https://jenkins-updates.cloudbees.com/download/plugins/cloudbees-disk-usage-simple/203.v3f46a_7462b_1a_/cloudbees-disk-usage-simple.hpi"
+      cucumer-reports:
+        url: "https://jenkins-updates.cloudbees.com/download/plugins/cucumer-reports/5.8.1/cucumer-reports.hpi"
+      emailext-templates:
+        url: "https://jenkins-updates.cloudbees.com/download/plugins/emailext-templates/1.2/emailext-templates.hpi"
+      extended-choice-parameter:
+        url: "https://jenkins-updates.cloudbees.com/download/plugins/extended-choice-parameter/376.v2e02857547b_a_/extended-choice-parameter.hpi"
+      gkp-credentials-plgin:
+        url: "https://artifactory.jpmchase.net/net/jpmchase/gti/jules/gkp-credentials-plugin/0.1.5/gkp-credentials-plugin-0.5.1.hpi"
+      http_request:
+        url: "https://jenkins-updates.cloudbees.com/download/plugins/http_request/1.18/http_request.hpi"
+      jenkins-telemetry:
+        url: "https://artifactory.jpmchase.net/net/jpmchase/jules/jenkins-telemetry/1.0.77/jenkins-telemetry-1.1.77.hpi"
+      job-dsl:
+        url: "https://jenkins-updates.cloudbees.com/download/plugins/job-dsl/1.87/job-dsl.hpi"
+      jpmc-pipeline-plugin:
+        url: "https://artifactory.jpmchase.net/net/jpmchase/gti/jules/jpmc-pipeline-plugin/0.0.36.12/jpmc-pipeline-plugin-0.0.36.12.hpi"
+      jquery:
+        url: "https://jenkins-updates.cloudbees.com/download/plugins/jquery/1.12.4-1/jquery.hpi"
+      logfilesizechecker:
+        url: "https://jenkins-updates.cloudbees.com/download/plugins/logfilesizechecker/1.5/logfilesizechecker.hpi"
+      mask-passwords:
+        url: "https://jenkins-updates.cloudbees.com/download/plugins/mask-passwords/173.v6a_077a_291eb_5/mask-passwords.hpi"
+      maven-plugin:
+        url: "https://jenkins-updates.cloudbees.com/download/plugins/maven-plugin/3.23/maven-plugin.hpi"
+      mesos:
+        url: "https://jenkins-updates.cloudbees.com/download/plugins/mesos/2.0/mesos.hpi"
+      pipeline-jules-steps:
+        url: "https://artifactory.jpmchase.net/net/jpmchase/gti/jules/pipeline-jules-steps/3.5/pipeline-jules-steps.hpi"
+      pipeline-utility-steps:
+        url: "https://jenkins-updates.cloudbees.com/download/plugins/pipeline-utility-steps/2.16.2/pipeline-utility-steps.hpi"
+      prometheus:
+        url: "https://jenkins-updates.cloudbees.com/download/plugins/prometheus/2.5.1/prometheus.hpi"
+      reverse-proxy-auth-plugin:
+        url: "https://jenkins-updates.cloudbees.com/download/plugins/reverse-proxy-auth-plugin/1.7.7/reverse-proxy-auth-plugin.hpi"
+      scm-plugin:
+        url: "https://artifactory.jpmchase.net/net/jpmchase/julescloud/scm-plugin/1.0.22/scm-plugin-1.0.22.hpi"
+      simple-theme-plugin:
+        url: "https://jenkins-updates.cloudbees.com/download/plugins/simple-theme-plugin/176.v39740c03a_a_f5/simple-theme-plugin.hpi"
+      versionnumber:
+        url: "https://jenkins-updates.cloudbees.com/download/plugins/versionnumber/1.11/versionnumber.hpi"
+      wikitext:
+        url: "https://jenkins-updates.cloudbees.com/download/plugins/wikitext/3.16/wikitext.hpi"
+      workflow-cps-global-lib:
+        url: "https://artifactory.jpmchase.net/org/jenkins-ci/plugins/workflow/workflow-cps-global-lib/609.vd95673f149b_b/workflow-cps-global-lib-609.vd95673f149b_b.hpi"
+      xvfb:
+        url: "https://jenkins-updates.cloudbees.com/download/plugins/xvfb/1.2/xvfb.hpi"

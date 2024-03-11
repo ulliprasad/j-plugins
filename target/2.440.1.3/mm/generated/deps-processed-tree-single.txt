@@ -1,0 +1,1042 @@
+ansicolor
+antisamy-markup-formatter
+aws-credentials -> credentials
+aws-credentials -> credentials-binding
+aws-credentials -> script-security
+aws-credentials -> structs
+aws-credentials -> variant
+aws-java-sdk-ec2 -> aws-java-sdk-minimal -> apache-httpcomponents-client-4-api
+aws-java-sdk-ec2 -> aws-java-sdk-minimal -> jackson2-api
+aws-java-sdk-ec2 -> aws-java-sdk-minimal -> jaxb
+aws-java-sdk-ec2 -> aws-java-sdk-minimal -> joda-time-api
+aws-java-sdk-minimal -> apache-httpcomponents-client-4-api
+aws-java-sdk-minimal -> jackson2-api
+aws-java-sdk-minimal -> jaxb
+aws-java-sdk-minimal -> joda-time-api
+badge -> antisamy-markup-formatter
+badge -> script-security
+badge -> structs
+badge -> workflow-step-api
+blueocean -> blueocean-bitbucket-pipeline -> apache-httpcomponents-client-4-api
+blueocean -> blueocean-bitbucket-pipeline -> blueocean-commons
+blueocean -> blueocean-bitbucket-pipeline -> blueocean-pipeline-api-impl -> blueocean-commons
+blueocean -> blueocean-bitbucket-pipeline -> blueocean-pipeline-api-impl -> blueocean-pipeline-scm-api -> blueocean-rest -> blueocean-commons
+blueocean -> blueocean-bitbucket-pipeline -> blueocean-pipeline-api-impl -> blueocean-pipeline-scm-api -> branch-api -> caffeine-api
+blueocean -> blueocean-bitbucket-pipeline -> blueocean-pipeline-api-impl -> blueocean-pipeline-scm-api -> branch-api -> cloudbees-folder
+blueocean -> blueocean-bitbucket-pipeline -> blueocean-pipeline-api-impl -> blueocean-pipeline-scm-api -> branch-api -> ionicons-api
+blueocean -> blueocean-bitbucket-pipeline -> blueocean-pipeline-api-impl -> blueocean-pipeline-scm-api -> branch-api -> scm-api
+blueocean -> blueocean-bitbucket-pipeline -> blueocean-pipeline-api-impl -> blueocean-pipeline-scm-api -> credentials
+blueocean -> blueocean-bitbucket-pipeline -> blueocean-pipeline-api-impl -> blueocean-pipeline-scm-api -> pubsub-light -> instance-identity
+blueocean -> blueocean-bitbucket-pipeline -> blueocean-pipeline-api-impl -> blueocean-pipeline-scm-api -> workflow-multibranch -> branch-api -> caffeine-api
+blueocean -> blueocean-bitbucket-pipeline -> blueocean-pipeline-api-impl -> blueocean-pipeline-scm-api -> workflow-multibranch -> branch-api -> cloudbees-folder
+blueocean -> blueocean-bitbucket-pipeline -> blueocean-pipeline-api-impl -> blueocean-pipeline-scm-api -> workflow-multibranch -> branch-api -> ionicons-api
+blueocean -> blueocean-bitbucket-pipeline -> blueocean-pipeline-api-impl -> blueocean-pipeline-scm-api -> workflow-multibranch -> branch-api -> scm-api
+blueocean -> blueocean-bitbucket-pipeline -> blueocean-pipeline-api-impl -> blueocean-pipeline-scm-api -> workflow-multibranch -> cloudbees-folder
+blueocean -> blueocean-bitbucket-pipeline -> blueocean-pipeline-api-impl -> blueocean-pipeline-scm-api -> workflow-multibranch -> ionicons-api
+blueocean -> blueocean-bitbucket-pipeline -> blueocean-pipeline-api-impl -> blueocean-pipeline-scm-api -> workflow-multibranch -> scm-api
+blueocean -> blueocean-bitbucket-pipeline -> blueocean-pipeline-api-impl -> blueocean-pipeline-scm-api -> workflow-multibranch -> script-security
+blueocean -> blueocean-bitbucket-pipeline -> blueocean-pipeline-api-impl -> blueocean-pipeline-scm-api -> workflow-multibranch -> workflow-api
+blueocean -> blueocean-bitbucket-pipeline -> blueocean-pipeline-api-impl -> blueocean-pipeline-scm-api -> workflow-multibranch -> workflow-cps
+blueocean -> blueocean-bitbucket-pipeline -> blueocean-pipeline-api-impl -> blueocean-pipeline-scm-api -> workflow-multibranch -> workflow-job
+blueocean -> blueocean-bitbucket-pipeline -> blueocean-pipeline-api-impl -> blueocean-pipeline-scm-api -> workflow-multibranch -> workflow-scm-step
+blueocean -> blueocean-bitbucket-pipeline -> blueocean-pipeline-api-impl -> blueocean-pipeline-scm-api -> workflow-multibranch -> workflow-step-api
+blueocean -> blueocean-bitbucket-pipeline -> blueocean-pipeline-api-impl -> blueocean-pipeline-scm-api -> workflow-multibranch -> workflow-support
+blueocean -> blueocean-bitbucket-pipeline -> blueocean-pipeline-api-impl -> blueocean-rest-impl -> blueocean-jwt -> blueocean-commons
+blueocean -> blueocean-bitbucket-pipeline -> blueocean-pipeline-api-impl -> blueocean-rest-impl -> blueocean-jwt -> mailer
+blueocean -> blueocean-bitbucket-pipeline -> blueocean-pipeline-api-impl -> blueocean-rest-impl -> blueocean-rest -> blueocean-commons
+blueocean -> blueocean-bitbucket-pipeline -> blueocean-pipeline-api-impl -> blueocean-rest-impl -> blueocean-web -> blueocean-core-js -> jenkins-design-language
+blueocean -> blueocean-bitbucket-pipeline -> blueocean-pipeline-api-impl -> blueocean-rest-impl -> blueocean-web -> blueocean-rest -> blueocean-commons
+blueocean -> blueocean-bitbucket-pipeline -> blueocean-pipeline-api-impl -> blueocean-rest-impl -> blueocean-web -> jenkins-design-language
+blueocean -> blueocean-bitbucket-pipeline -> blueocean-pipeline-api-impl -> blueocean-rest-impl -> blueocean-web -> variant
+blueocean -> blueocean-bitbucket-pipeline -> blueocean-pipeline-api-impl -> blueocean-rest-impl -> caffeine-api
+blueocean -> blueocean-bitbucket-pipeline -> blueocean-pipeline-api-impl -> blueocean-rest-impl -> cloudbees-folder
+blueocean -> blueocean-bitbucket-pipeline -> blueocean-pipeline-api-impl -> blueocean-rest-impl -> credentials
+blueocean -> blueocean-bitbucket-pipeline -> blueocean-pipeline-api-impl -> blueocean-rest-impl -> display-url-api
+blueocean -> blueocean-bitbucket-pipeline -> blueocean-pipeline-api-impl -> blueocean-rest-impl -> favorite -> ionicons-api
+blueocean -> blueocean-bitbucket-pipeline -> blueocean-pipeline-api-impl -> blueocean-rest-impl -> favorite -> mailer
+blueocean -> blueocean-bitbucket-pipeline -> blueocean-pipeline-api-impl -> blueocean-rest-impl -> favorite -> token-macro
+blueocean -> blueocean-bitbucket-pipeline -> blueocean-pipeline-api-impl -> blueocean-rest-impl -> junit -> bootstrap5-api -> commons-lang3-api
+blueocean -> blueocean-bitbucket-pipeline -> blueocean-pipeline-api-impl -> blueocean-rest-impl -> junit -> bootstrap5-api -> commons-text-api
+blueocean -> blueocean-bitbucket-pipeline -> blueocean-pipeline-api-impl -> blueocean-rest-impl -> junit -> bootstrap5-api -> font-awesome-api -> commons-lang3-api
+blueocean -> blueocean-bitbucket-pipeline -> blueocean-pipeline-api-impl -> blueocean-rest-impl -> junit -> bootstrap5-api -> font-awesome-api -> commons-text-api
+blueocean -> blueocean-bitbucket-pipeline -> blueocean-pipeline-api-impl -> blueocean-rest-impl -> junit -> bootstrap5-api -> font-awesome-api -> plugin-util-api -> commons-lang3-api
+blueocean -> blueocean-bitbucket-pipeline -> blueocean-pipeline-api-impl -> blueocean-rest-impl -> junit -> bootstrap5-api -> font-awesome-api -> plugin-util-api -> commons-text-api
+blueocean -> blueocean-bitbucket-pipeline -> blueocean-pipeline-api-impl -> blueocean-rest-impl -> junit -> bootstrap5-api -> font-awesome-api -> plugin-util-api -> workflow-api
+blueocean -> blueocean-bitbucket-pipeline -> blueocean-pipeline-api-impl -> blueocean-rest-impl -> junit -> bootstrap5-api -> font-awesome-api -> plugin-util-api -> workflow-step-api
+blueocean -> blueocean-bitbucket-pipeline -> blueocean-pipeline-api-impl -> blueocean-rest-impl -> junit -> bootstrap5-api -> font-awesome-api -> plugin-util-api -> workflow-support
+blueocean -> blueocean-bitbucket-pipeline -> blueocean-pipeline-api-impl -> blueocean-rest-impl -> junit -> checks-api -> commons-lang3-api
+blueocean -> blueocean-bitbucket-pipeline -> blueocean-pipeline-api-impl -> blueocean-rest-impl -> junit -> checks-api -> commons-text-api
+blueocean -> blueocean-bitbucket-pipeline -> blueocean-pipeline-api-impl -> blueocean-rest-impl -> junit -> checks-api -> display-url-api
+blueocean -> blueocean-bitbucket-pipeline -> blueocean-pipeline-api-impl -> blueocean-rest-impl -> junit -> checks-api -> plugin-util-api -> commons-lang3-api
+blueocean -> blueocean-bitbucket-pipeline -> blueocean-pipeline-api-impl -> blueocean-rest-impl -> junit -> checks-api -> plugin-util-api -> commons-text-api
+blueocean -> blueocean-bitbucket-pipeline -> blueocean-pipeline-api-impl -> blueocean-rest-impl -> junit -> checks-api -> plugin-util-api -> workflow-api
+blueocean -> blueocean-bitbucket-pipeline -> blueocean-pipeline-api-impl -> blueocean-rest-impl -> junit -> checks-api -> plugin-util-api -> workflow-step-api
+blueocean -> blueocean-bitbucket-pipeline -> blueocean-pipeline-api-impl -> blueocean-rest-impl -> junit -> checks-api -> plugin-util-api -> workflow-support
+blueocean -> blueocean-bitbucket-pipeline -> blueocean-pipeline-api-impl -> blueocean-rest-impl -> junit -> checks-api -> workflow-step-api
+blueocean -> blueocean-bitbucket-pipeline -> blueocean-pipeline-api-impl -> blueocean-rest-impl -> junit -> checks-api -> workflow-support
+blueocean -> blueocean-bitbucket-pipeline -> blueocean-pipeline-api-impl -> blueocean-rest-impl -> junit -> display-url-api
+blueocean -> blueocean-bitbucket-pipeline -> blueocean-pipeline-api-impl -> blueocean-rest-impl -> junit -> echarts-api -> bootstrap5-api -> commons-lang3-api
+blueocean -> blueocean-bitbucket-pipeline -> blueocean-pipeline-api-impl -> blueocean-rest-impl -> junit -> echarts-api -> bootstrap5-api -> commons-text-api
+blueocean -> blueocean-bitbucket-pipeline -> blueocean-pipeline-api-impl -> blueocean-rest-impl -> junit -> echarts-api -> commons-lang3-api
+blueocean -> blueocean-bitbucket-pipeline -> blueocean-pipeline-api-impl -> blueocean-rest-impl -> junit -> echarts-api -> commons-text-api
+blueocean -> blueocean-bitbucket-pipeline -> blueocean-pipeline-api-impl -> blueocean-rest-impl -> junit -> echarts-api -> font-awesome-api -> commons-lang3-api
+blueocean -> blueocean-bitbucket-pipeline -> blueocean-pipeline-api-impl -> blueocean-rest-impl -> junit -> echarts-api -> font-awesome-api -> commons-text-api
+blueocean -> blueocean-bitbucket-pipeline -> blueocean-pipeline-api-impl -> blueocean-rest-impl -> junit -> echarts-api -> jackson2-api
+blueocean -> blueocean-bitbucket-pipeline -> blueocean-pipeline-api-impl -> blueocean-rest-impl -> junit -> echarts-api -> jquery3-api
+blueocean -> blueocean-bitbucket-pipeline -> blueocean-pipeline-api-impl -> blueocean-rest-impl -> junit -> echarts-api -> plugin-util-api -> commons-lang3-api
+blueocean -> blueocean-bitbucket-pipeline -> blueocean-pipeline-api-impl -> blueocean-rest-impl -> junit -> echarts-api -> plugin-util-api -> commons-text-api
+blueocean -> blueocean-bitbucket-pipeline -> blueocean-pipeline-api-impl -> blueocean-rest-impl -> junit -> echarts-api -> plugin-util-api -> workflow-api
+blueocean -> blueocean-bitbucket-pipeline -> blueocean-pipeline-api-impl -> blueocean-rest-impl -> junit -> echarts-api -> plugin-util-api -> workflow-step-api
+blueocean -> blueocean-bitbucket-pipeline -> blueocean-pipeline-api-impl -> blueocean-rest-impl -> junit -> echarts-api -> plugin-util-api -> workflow-support
+blueocean -> blueocean-bitbucket-pipeline -> blueocean-pipeline-api-impl -> blueocean-rest-impl -> junit -> ionicons-api
+blueocean -> blueocean-bitbucket-pipeline -> blueocean-pipeline-api-impl -> blueocean-rest-impl -> junit -> jackson2-api
+blueocean -> blueocean-bitbucket-pipeline -> blueocean-pipeline-api-impl -> blueocean-rest-impl -> junit -> plugin-util-api -> commons-lang3-api
+blueocean -> blueocean-bitbucket-pipeline -> blueocean-pipeline-api-impl -> blueocean-rest-impl -> junit -> plugin-util-api -> commons-text-api
+blueocean -> blueocean-bitbucket-pipeline -> blueocean-pipeline-api-impl -> blueocean-rest-impl -> junit -> plugin-util-api -> workflow-api
+blueocean -> blueocean-bitbucket-pipeline -> blueocean-pipeline-api-impl -> blueocean-rest-impl -> junit -> plugin-util-api -> workflow-step-api
+blueocean -> blueocean-bitbucket-pipeline -> blueocean-pipeline-api-impl -> blueocean-rest-impl -> junit -> plugin-util-api -> workflow-support
+blueocean -> blueocean-bitbucket-pipeline -> blueocean-pipeline-api-impl -> blueocean-rest-impl -> junit -> script-security
+blueocean -> blueocean-bitbucket-pipeline -> blueocean-pipeline-api-impl -> blueocean-rest-impl -> junit -> workflow-api
+blueocean -> blueocean-bitbucket-pipeline -> blueocean-pipeline-api-impl -> blueocean-rest-impl -> junit -> workflow-step-api
+blueocean -> blueocean-bitbucket-pipeline -> blueocean-pipeline-api-impl -> blueocean-rest-impl -> mailer
+blueocean -> blueocean-bitbucket-pipeline -> blueocean-pipeline-api-impl -> blueocean-rest-impl -> workflow-cps
+blueocean -> blueocean-bitbucket-pipeline -> blueocean-pipeline-api-impl -> branch-api -> caffeine-api
+blueocean -> blueocean-bitbucket-pipeline -> blueocean-pipeline-api-impl -> branch-api -> cloudbees-folder
+blueocean -> blueocean-bitbucket-pipeline -> blueocean-pipeline-api-impl -> branch-api -> ionicons-api
+blueocean -> blueocean-bitbucket-pipeline -> blueocean-pipeline-api-impl -> branch-api -> scm-api
+blueocean -> blueocean-bitbucket-pipeline -> blueocean-pipeline-api-impl -> caffeine-api
+blueocean -> blueocean-bitbucket-pipeline -> blueocean-pipeline-api-impl -> credentials
+blueocean -> blueocean-bitbucket-pipeline -> blueocean-pipeline-api-impl -> git -> credentials
+blueocean -> blueocean-bitbucket-pipeline -> blueocean-pipeline-api-impl -> git -> credentials-binding
+blueocean -> blueocean-bitbucket-pipeline -> blueocean-pipeline-api-impl -> git -> git-client -> apache-httpcomponents-client-4-api
+blueocean -> blueocean-bitbucket-pipeline -> blueocean-pipeline-api-impl -> git -> git-client -> credentials
+blueocean -> blueocean-bitbucket-pipeline -> blueocean-pipeline-api-impl -> git -> git-client -> mina-sshd-api-common
+blueocean -> blueocean-bitbucket-pipeline -> blueocean-pipeline-api-impl -> git -> git-client -> mina-sshd-api-core -> mina-sshd-api-common
+blueocean -> blueocean-bitbucket-pipeline -> blueocean-pipeline-api-impl -> git -> git-client -> script-security
+blueocean -> blueocean-bitbucket-pipeline -> blueocean-pipeline-api-impl -> git -> git-client -> ssh-credentials
+blueocean -> blueocean-bitbucket-pipeline -> blueocean-pipeline-api-impl -> git -> git-client -> structs
+blueocean -> blueocean-bitbucket-pipeline -> blueocean-pipeline-api-impl -> git -> git-client -> trilead-api
+blueocean -> blueocean-bitbucket-pipeline -> blueocean-pipeline-api-impl -> git -> mailer
+blueocean -> blueocean-bitbucket-pipeline -> blueocean-pipeline-api-impl -> git -> scm-api
+blueocean -> blueocean-bitbucket-pipeline -> blueocean-pipeline-api-impl -> git -> script-security
+blueocean -> blueocean-bitbucket-pipeline -> blueocean-pipeline-api-impl -> git -> ssh-credentials
+blueocean -> blueocean-bitbucket-pipeline -> blueocean-pipeline-api-impl -> git -> structs
+blueocean -> blueocean-bitbucket-pipeline -> blueocean-pipeline-api-impl -> git -> workflow-scm-step
+blueocean -> blueocean-bitbucket-pipeline -> blueocean-pipeline-api-impl -> git -> workflow-step-api
+blueocean -> blueocean-bitbucket-pipeline -> blueocean-pipeline-api-impl -> github-branch-source -> caffeine-api
+blueocean -> blueocean-bitbucket-pipeline -> blueocean-pipeline-api-impl -> github-branch-source -> credentials
+blueocean -> blueocean-bitbucket-pipeline -> blueocean-pipeline-api-impl -> github-branch-source -> github -> commons-lang3-api
+blueocean -> blueocean-bitbucket-pipeline -> blueocean-pipeline-api-impl -> github-branch-source -> github -> credentials
+blueocean -> blueocean-bitbucket-pipeline -> blueocean-pipeline-api-impl -> github-branch-source -> github -> display-url-api
+blueocean -> blueocean-bitbucket-pipeline -> blueocean-pipeline-api-impl -> github-branch-source -> github -> git -> credentials
+blueocean -> blueocean-bitbucket-pipeline -> blueocean-pipeline-api-impl -> github-branch-source -> github -> git -> credentials-binding
+blueocean -> blueocean-bitbucket-pipeline -> blueocean-pipeline-api-impl -> github-branch-source -> github -> git -> mailer
+blueocean -> blueocean-bitbucket-pipeline -> blueocean-pipeline-api-impl -> github-branch-source -> github -> git -> scm-api
+blueocean -> blueocean-bitbucket-pipeline -> blueocean-pipeline-api-impl -> github-branch-source -> github -> git -> script-security
+blueocean -> blueocean-bitbucket-pipeline -> blueocean-pipeline-api-impl -> github-branch-source -> github -> git -> ssh-credentials
+blueocean -> blueocean-bitbucket-pipeline -> blueocean-pipeline-api-impl -> github-branch-source -> github -> git -> structs
+blueocean -> blueocean-bitbucket-pipeline -> blueocean-pipeline-api-impl -> github-branch-source -> github -> git -> workflow-scm-step
+blueocean -> blueocean-bitbucket-pipeline -> blueocean-pipeline-api-impl -> github-branch-source -> github -> git -> workflow-step-api
+blueocean -> blueocean-bitbucket-pipeline -> blueocean-pipeline-api-impl -> github-branch-source -> github -> github-api -> commons-lang3-api
+blueocean -> blueocean-bitbucket-pipeline -> blueocean-pipeline-api-impl -> github-branch-source -> github -> github-api -> jackson2-api
+blueocean -> blueocean-bitbucket-pipeline -> blueocean-pipeline-api-impl -> github-branch-source -> github -> github-api -> okhttp-api
+blueocean -> blueocean-bitbucket-pipeline -> blueocean-pipeline-api-impl -> github-branch-source -> github -> instance-identity
+blueocean -> blueocean-bitbucket-pipeline -> blueocean-pipeline-api-impl -> github-branch-source -> github -> okhttp-api
+blueocean -> blueocean-bitbucket-pipeline -> blueocean-pipeline-api-impl -> github-branch-source -> github -> plain-credentials
+blueocean -> blueocean-bitbucket-pipeline -> blueocean-pipeline-api-impl -> github-branch-source -> github -> scm-api
+blueocean -> blueocean-bitbucket-pipeline -> blueocean-pipeline-api-impl -> github-branch-source -> github -> token-macro
+blueocean -> blueocean-bitbucket-pipeline -> blueocean-pipeline-api-impl -> github-branch-source -> github-api -> commons-lang3-api
+blueocean -> blueocean-bitbucket-pipeline -> blueocean-pipeline-api-impl -> github-branch-source -> github-api -> jackson2-api
+blueocean -> blueocean-bitbucket-pipeline -> blueocean-pipeline-api-impl -> github-branch-source -> github-api -> okhttp-api
+blueocean -> blueocean-bitbucket-pipeline -> blueocean-pipeline-api-impl -> github-branch-source -> jjwt-api
+blueocean -> blueocean-bitbucket-pipeline -> blueocean-pipeline-api-impl -> github-branch-source -> okhttp-api
+blueocean -> blueocean-bitbucket-pipeline -> blueocean-pipeline-api-impl -> github-branch-source -> workflow-support
+blueocean -> blueocean-bitbucket-pipeline -> blueocean-pipeline-api-impl -> htmlpublisher -> matrix-project -> junit -> display-url-api
+blueocean -> blueocean-bitbucket-pipeline -> blueocean-pipeline-api-impl -> htmlpublisher -> matrix-project -> junit -> ionicons-api
+blueocean -> blueocean-bitbucket-pipeline -> blueocean-pipeline-api-impl -> htmlpublisher -> matrix-project -> junit -> jackson2-api
+blueocean -> blueocean-bitbucket-pipeline -> blueocean-pipeline-api-impl -> htmlpublisher -> matrix-project -> junit -> script-security
+blueocean -> blueocean-bitbucket-pipeline -> blueocean-pipeline-api-impl -> htmlpublisher -> matrix-project -> junit -> workflow-api
+blueocean -> blueocean-bitbucket-pipeline -> blueocean-pipeline-api-impl -> htmlpublisher -> matrix-project -> junit -> workflow-step-api
+blueocean -> blueocean-bitbucket-pipeline -> blueocean-pipeline-api-impl -> htmlpublisher -> matrix-project -> script-security
+blueocean -> blueocean-bitbucket-pipeline -> blueocean-pipeline-api-impl -> htmlpublisher -> workflow-step-api
+blueocean -> blueocean-bitbucket-pipeline -> blueocean-pipeline-api-impl -> pipeline-build-step -> script-security
+blueocean -> blueocean-bitbucket-pipeline -> blueocean-pipeline-api-impl -> pipeline-build-step -> structs
+blueocean -> blueocean-bitbucket-pipeline -> blueocean-pipeline-api-impl -> pipeline-build-step -> workflow-api
+blueocean -> blueocean-bitbucket-pipeline -> blueocean-pipeline-api-impl -> pipeline-build-step -> workflow-step-api
+blueocean -> blueocean-bitbucket-pipeline -> blueocean-pipeline-api-impl -> pipeline-build-step -> workflow-support
+blueocean -> blueocean-bitbucket-pipeline -> blueocean-pipeline-api-impl -> pipeline-graph-analysis -> pipeline-input-step -> credentials
+blueocean -> blueocean-bitbucket-pipeline -> blueocean-pipeline-api-impl -> pipeline-graph-analysis -> pipeline-input-step -> structs
+blueocean -> blueocean-bitbucket-pipeline -> blueocean-pipeline-api-impl -> pipeline-graph-analysis -> pipeline-input-step -> workflow-api
+blueocean -> blueocean-bitbucket-pipeline -> blueocean-pipeline-api-impl -> pipeline-graph-analysis -> pipeline-input-step -> workflow-step-api
+blueocean -> blueocean-bitbucket-pipeline -> blueocean-pipeline-api-impl -> pipeline-graph-analysis -> pipeline-input-step -> workflow-support
+blueocean -> blueocean-bitbucket-pipeline -> blueocean-pipeline-api-impl -> pipeline-graph-analysis -> pipeline-stage-step
+blueocean -> blueocean-bitbucket-pipeline -> blueocean-pipeline-api-impl -> pipeline-graph-analysis -> workflow-api
+blueocean -> blueocean-bitbucket-pipeline -> blueocean-pipeline-api-impl -> pipeline-graph-analysis -> workflow-cps
+blueocean -> blueocean-bitbucket-pipeline -> blueocean-pipeline-api-impl -> pipeline-graph-analysis -> workflow-job
+blueocean -> blueocean-bitbucket-pipeline -> blueocean-pipeline-api-impl -> pipeline-graph-analysis -> workflow-step-api
+blueocean -> blueocean-bitbucket-pipeline -> blueocean-pipeline-api-impl -> pipeline-graph-analysis -> workflow-support
+blueocean -> blueocean-bitbucket-pipeline -> blueocean-pipeline-api-impl -> pipeline-input-step -> credentials
+blueocean -> blueocean-bitbucket-pipeline -> blueocean-pipeline-api-impl -> pipeline-input-step -> structs
+blueocean -> blueocean-bitbucket-pipeline -> blueocean-pipeline-api-impl -> pipeline-input-step -> workflow-api
+blueocean -> blueocean-bitbucket-pipeline -> blueocean-pipeline-api-impl -> pipeline-input-step -> workflow-step-api
+blueocean -> blueocean-bitbucket-pipeline -> blueocean-pipeline-api-impl -> pipeline-input-step -> workflow-support
+blueocean -> blueocean-bitbucket-pipeline -> blueocean-pipeline-api-impl -> pipeline-model-definition -> credentials
+blueocean -> blueocean-bitbucket-pipeline -> blueocean-pipeline-api-impl -> pipeline-model-definition -> credentials-binding
+blueocean -> blueocean-bitbucket-pipeline -> blueocean-pipeline-api-impl -> pipeline-model-definition -> git-client -> apache-httpcomponents-client-4-api
+blueocean -> blueocean-bitbucket-pipeline -> blueocean-pipeline-api-impl -> pipeline-model-definition -> git-client -> credentials
+blueocean -> blueocean-bitbucket-pipeline -> blueocean-pipeline-api-impl -> pipeline-model-definition -> git-client -> mina-sshd-api-common
+blueocean -> blueocean-bitbucket-pipeline -> blueocean-pipeline-api-impl -> pipeline-model-definition -> git-client -> script-security
+blueocean -> blueocean-bitbucket-pipeline -> blueocean-pipeline-api-impl -> pipeline-model-definition -> git-client -> ssh-credentials
+blueocean -> blueocean-bitbucket-pipeline -> blueocean-pipeline-api-impl -> pipeline-model-definition -> git-client -> structs
+blueocean -> blueocean-bitbucket-pipeline -> blueocean-pipeline-api-impl -> pipeline-model-definition -> git-client -> trilead-api
+blueocean -> blueocean-bitbucket-pipeline -> blueocean-pipeline-api-impl -> pipeline-model-definition -> ionicons-api
+blueocean -> blueocean-bitbucket-pipeline -> blueocean-pipeline-api-impl -> pipeline-model-definition -> mailer
+blueocean -> blueocean-bitbucket-pipeline -> blueocean-pipeline-api-impl -> pipeline-model-definition -> pipeline-groovy-lib -> cloudbees-folder
+blueocean -> blueocean-bitbucket-pipeline -> blueocean-pipeline-api-impl -> pipeline-model-definition -> pipeline-groovy-lib -> scm-api
+blueocean -> blueocean-bitbucket-pipeline -> blueocean-pipeline-api-impl -> pipeline-model-definition -> pipeline-groovy-lib -> script-security
+blueocean -> blueocean-bitbucket-pipeline -> blueocean-pipeline-api-impl -> pipeline-model-definition -> pipeline-groovy-lib -> structs
+blueocean -> blueocean-bitbucket-pipeline -> blueocean-pipeline-api-impl -> pipeline-model-definition -> pipeline-groovy-lib -> variant
+blueocean -> blueocean-bitbucket-pipeline -> blueocean-pipeline-api-impl -> pipeline-model-definition -> pipeline-groovy-lib -> workflow-api
+blueocean -> blueocean-bitbucket-pipeline -> blueocean-pipeline-api-impl -> pipeline-model-definition -> pipeline-groovy-lib -> workflow-cps
+blueocean -> blueocean-bitbucket-pipeline -> blueocean-pipeline-api-impl -> pipeline-model-definition -> pipeline-groovy-lib -> workflow-scm-step
+blueocean -> blueocean-bitbucket-pipeline -> blueocean-pipeline-api-impl -> pipeline-model-definition -> pipeline-groovy-lib -> workflow-step-api
+blueocean -> blueocean-bitbucket-pipeline -> blueocean-pipeline-api-impl -> pipeline-model-definition -> pipeline-input-step -> credentials
+blueocean -> blueocean-bitbucket-pipeline -> blueocean-pipeline-api-impl -> pipeline-model-definition -> pipeline-input-step -> structs
+blueocean -> blueocean-bitbucket-pipeline -> blueocean-pipeline-api-impl -> pipeline-model-definition -> pipeline-input-step -> workflow-api
+blueocean -> blueocean-bitbucket-pipeline -> blueocean-pipeline-api-impl -> pipeline-model-definition -> pipeline-input-step -> workflow-step-api
+blueocean -> blueocean-bitbucket-pipeline -> blueocean-pipeline-api-impl -> pipeline-model-definition -> pipeline-input-step -> workflow-support
+blueocean -> blueocean-bitbucket-pipeline -> blueocean-pipeline-api-impl -> pipeline-model-definition -> pipeline-model-api
+blueocean -> blueocean-bitbucket-pipeline -> blueocean-pipeline-api-impl -> pipeline-model-definition -> pipeline-model-extensions
+blueocean -> blueocean-bitbucket-pipeline -> blueocean-pipeline-api-impl -> pipeline-model-definition -> pipeline-stage-step
+blueocean -> blueocean-bitbucket-pipeline -> blueocean-pipeline-api-impl -> pipeline-model-definition -> pipeline-stage-tags-metadata -> workflow-api
+blueocean -> blueocean-bitbucket-pipeline -> blueocean-pipeline-api-impl -> pipeline-model-definition -> scm-api
+blueocean -> blueocean-bitbucket-pipeline -> blueocean-pipeline-api-impl -> pipeline-model-definition -> structs
+blueocean -> blueocean-bitbucket-pipeline -> blueocean-pipeline-api-impl -> pipeline-model-definition -> workflow-api
+blueocean -> blueocean-bitbucket-pipeline -> blueocean-pipeline-api-impl -> pipeline-model-definition -> workflow-basic-steps -> apache-httpcomponents-client-4-api
+blueocean -> blueocean-bitbucket-pipeline -> blueocean-pipeline-api-impl -> pipeline-model-definition -> workflow-basic-steps -> jakarta-mail-api
+blueocean -> blueocean-bitbucket-pipeline -> blueocean-pipeline-api-impl -> pipeline-model-definition -> workflow-basic-steps -> mailer
+blueocean -> blueocean-bitbucket-pipeline -> blueocean-pipeline-api-impl -> pipeline-model-definition -> workflow-basic-steps -> structs
+blueocean -> blueocean-bitbucket-pipeline -> blueocean-pipeline-api-impl -> pipeline-model-definition -> workflow-basic-steps -> workflow-api
+blueocean -> blueocean-bitbucket-pipeline -> blueocean-pipeline-api-impl -> pipeline-model-definition -> workflow-basic-steps -> workflow-durable-task-step
+blueocean -> blueocean-bitbucket-pipeline -> blueocean-pipeline-api-impl -> pipeline-model-definition -> workflow-basic-steps -> workflow-step-api
+blueocean -> blueocean-bitbucket-pipeline -> blueocean-pipeline-api-impl -> pipeline-model-definition -> workflow-cps
+blueocean -> blueocean-bitbucket-pipeline -> blueocean-pipeline-api-impl -> pipeline-model-definition -> workflow-durable-task-step
+blueocean -> blueocean-bitbucket-pipeline -> blueocean-pipeline-api-impl -> pipeline-model-definition -> workflow-multibranch -> cloudbees-folder
+blueocean -> blueocean-bitbucket-pipeline -> blueocean-pipeline-api-impl -> pipeline-model-definition -> workflow-multibranch -> ionicons-api
+blueocean -> blueocean-bitbucket-pipeline -> blueocean-pipeline-api-impl -> pipeline-model-definition -> workflow-multibranch -> scm-api
+blueocean -> blueocean-bitbucket-pipeline -> blueocean-pipeline-api-impl -> pipeline-model-definition -> workflow-multibranch -> script-security
+blueocean -> blueocean-bitbucket-pipeline -> blueocean-pipeline-api-impl -> pipeline-model-definition -> workflow-multibranch -> workflow-api
+blueocean -> blueocean-bitbucket-pipeline -> blueocean-pipeline-api-impl -> pipeline-model-definition -> workflow-multibranch -> workflow-cps
+blueocean -> blueocean-bitbucket-pipeline -> blueocean-pipeline-api-impl -> pipeline-model-definition -> workflow-multibranch -> workflow-job
+blueocean -> blueocean-bitbucket-pipeline -> blueocean-pipeline-api-impl -> pipeline-model-definition -> workflow-multibranch -> workflow-scm-step
+blueocean -> blueocean-bitbucket-pipeline -> blueocean-pipeline-api-impl -> pipeline-model-definition -> workflow-multibranch -> workflow-step-api
+blueocean -> blueocean-bitbucket-pipeline -> blueocean-pipeline-api-impl -> pipeline-model-definition -> workflow-multibranch -> workflow-support
+blueocean -> blueocean-bitbucket-pipeline -> blueocean-pipeline-api-impl -> pipeline-model-definition -> workflow-scm-step
+blueocean -> blueocean-bitbucket-pipeline -> blueocean-pipeline-api-impl -> pipeline-model-definition -> workflow-support
+blueocean -> blueocean-bitbucket-pipeline -> blueocean-pipeline-api-impl -> pipeline-stage-step
+blueocean -> blueocean-bitbucket-pipeline -> blueocean-pipeline-api-impl -> pipeline-stage-tags-metadata -> workflow-api
+blueocean -> blueocean-bitbucket-pipeline -> blueocean-pipeline-api-impl -> plain-credentials
+blueocean -> blueocean-bitbucket-pipeline -> blueocean-pipeline-api-impl -> scm-api
+blueocean -> blueocean-bitbucket-pipeline -> blueocean-pipeline-api-impl -> workflow-api
+blueocean -> blueocean-bitbucket-pipeline -> blueocean-pipeline-api-impl -> workflow-cps
+blueocean -> blueocean-bitbucket-pipeline -> blueocean-pipeline-api-impl -> workflow-job
+blueocean -> blueocean-bitbucket-pipeline -> blueocean-pipeline-api-impl -> workflow-multibranch -> cloudbees-folder
+blueocean -> blueocean-bitbucket-pipeline -> blueocean-pipeline-api-impl -> workflow-multibranch -> ionicons-api
+blueocean -> blueocean-bitbucket-pipeline -> blueocean-pipeline-api-impl -> workflow-multibranch -> scm-api
+blueocean -> blueocean-bitbucket-pipeline -> blueocean-pipeline-api-impl -> workflow-multibranch -> script-security
+blueocean -> blueocean-bitbucket-pipeline -> blueocean-pipeline-api-impl -> workflow-multibranch -> workflow-api
+blueocean -> blueocean-bitbucket-pipeline -> blueocean-pipeline-api-impl -> workflow-multibranch -> workflow-cps
+blueocean -> blueocean-bitbucket-pipeline -> blueocean-pipeline-api-impl -> workflow-multibranch -> workflow-job
+blueocean -> blueocean-bitbucket-pipeline -> blueocean-pipeline-api-impl -> workflow-multibranch -> workflow-scm-step
+blueocean -> blueocean-bitbucket-pipeline -> blueocean-pipeline-api-impl -> workflow-multibranch -> workflow-step-api
+blueocean -> blueocean-bitbucket-pipeline -> blueocean-pipeline-api-impl -> workflow-multibranch -> workflow-support
+blueocean -> blueocean-bitbucket-pipeline -> blueocean-pipeline-api-impl -> workflow-step-api
+blueocean -> blueocean-bitbucket-pipeline -> blueocean-pipeline-api-impl -> workflow-support
+blueocean -> blueocean-bitbucket-pipeline -> cloudbees-bitbucket-branch-source -> apache-httpcomponents-client-4-api
+blueocean -> blueocean-bitbucket-pipeline -> cloudbees-bitbucket-branch-source -> authentication-tokens
+blueocean -> blueocean-bitbucket-pipeline -> cloudbees-bitbucket-branch-source -> display-url-api
+blueocean -> blueocean-bitbucket-pipeline -> cloudbees-bitbucket-branch-source -> git -> credentials
+blueocean -> blueocean-bitbucket-pipeline -> cloudbees-bitbucket-branch-source -> git -> credentials-binding
+blueocean -> blueocean-bitbucket-pipeline -> cloudbees-bitbucket-branch-source -> git -> mailer
+blueocean -> blueocean-bitbucket-pipeline -> cloudbees-bitbucket-branch-source -> git -> scm-api
+blueocean -> blueocean-bitbucket-pipeline -> cloudbees-bitbucket-branch-source -> git -> script-security
+blueocean -> blueocean-bitbucket-pipeline -> cloudbees-bitbucket-branch-source -> git -> ssh-credentials
+blueocean -> blueocean-bitbucket-pipeline -> cloudbees-bitbucket-branch-source -> git -> structs
+blueocean -> blueocean-bitbucket-pipeline -> cloudbees-bitbucket-branch-source -> git -> workflow-scm-step
+blueocean -> blueocean-bitbucket-pipeline -> cloudbees-bitbucket-branch-source -> git -> workflow-step-api
+blueocean -> blueocean-bitbucket-pipeline -> cloudbees-bitbucket-branch-source -> handy-uri-templates-2-api
+blueocean -> blueocean-bitbucket-pipeline -> cloudbees-bitbucket-branch-source -> jackson2-api
+blueocean -> blueocean-bitbucket-pipeline -> cloudbees-bitbucket-branch-source -> plain-credentials
+blueocean -> blueocean-bitbucket-pipeline -> cloudbees-bitbucket-branch-source -> scm-api
+blueocean -> blueocean-bitbucket-pipeline -> cloudbees-bitbucket-branch-source -> structs
+blueocean -> blueocean-bitbucket-pipeline -> pubsub-light -> instance-identity
+blueocean -> blueocean-commons
+blueocean -> blueocean-config -> blueocean-commons
+blueocean -> blueocean-config -> blueocean-jwt -> blueocean-commons
+blueocean -> blueocean-config -> blueocean-jwt -> mailer
+blueocean -> blueocean-config -> blueocean-rest -> blueocean-commons
+blueocean -> blueocean-config -> blueocean-web -> jenkins-design-language
+blueocean -> blueocean-config -> blueocean-web -> variant
+blueocean -> blueocean-core-js -> jenkins-design-language
+blueocean -> blueocean-dashboard -> blueocean-web -> jenkins-design-language
+blueocean -> blueocean-dashboard -> blueocean-web -> variant
+blueocean -> blueocean-display-url -> blueocean-rest -> blueocean-commons
+blueocean -> blueocean-display-url -> branch-api -> caffeine-api
+blueocean -> blueocean-display-url -> branch-api -> cloudbees-folder
+blueocean -> blueocean-display-url -> branch-api -> ionicons-api
+blueocean -> blueocean-display-url -> branch-api -> scm-api
+blueocean -> blueocean-display-url -> display-url-api
+blueocean -> blueocean-display-url -> scm-api
+blueocean -> blueocean-display-url -> workflow-job
+blueocean -> blueocean-events -> blueocean-pipeline-api-impl -> blueocean-commons
+blueocean -> blueocean-events -> blueocean-pipeline-api-impl -> caffeine-api
+blueocean -> blueocean-events -> blueocean-pipeline-api-impl -> credentials
+blueocean -> blueocean-events -> blueocean-pipeline-api-impl -> pipeline-stage-step
+blueocean -> blueocean-events -> blueocean-pipeline-api-impl -> plain-credentials
+blueocean -> blueocean-events -> blueocean-pipeline-api-impl -> scm-api
+blueocean -> blueocean-events -> blueocean-pipeline-api-impl -> workflow-api
+blueocean -> blueocean-events -> blueocean-pipeline-api-impl -> workflow-cps
+blueocean -> blueocean-events -> blueocean-pipeline-api-impl -> workflow-job
+blueocean -> blueocean-events -> blueocean-pipeline-api-impl -> workflow-step-api
+blueocean -> blueocean-events -> blueocean-pipeline-api-impl -> workflow-support
+blueocean -> blueocean-events -> caffeine-api
+blueocean -> blueocean-events -> pubsub-light -> instance-identity
+blueocean -> blueocean-events -> sse-gateway -> pubsub-light -> instance-identity
+blueocean -> blueocean-git-pipeline -> blueocean-pipeline-api-impl -> blueocean-commons
+blueocean -> blueocean-git-pipeline -> blueocean-pipeline-api-impl -> caffeine-api
+blueocean -> blueocean-git-pipeline -> blueocean-pipeline-api-impl -> credentials
+blueocean -> blueocean-git-pipeline -> blueocean-pipeline-api-impl -> pipeline-stage-step
+blueocean -> blueocean-git-pipeline -> blueocean-pipeline-api-impl -> plain-credentials
+blueocean -> blueocean-git-pipeline -> blueocean-pipeline-api-impl -> scm-api
+blueocean -> blueocean-git-pipeline -> blueocean-pipeline-api-impl -> workflow-api
+blueocean -> blueocean-git-pipeline -> blueocean-pipeline-api-impl -> workflow-cps
+blueocean -> blueocean-git-pipeline -> blueocean-pipeline-api-impl -> workflow-job
+blueocean -> blueocean-git-pipeline -> blueocean-pipeline-api-impl -> workflow-step-api
+blueocean -> blueocean-git-pipeline -> blueocean-pipeline-api-impl -> workflow-support
+blueocean -> blueocean-git-pipeline -> blueocean-pipeline-scm-api -> credentials
+blueocean -> blueocean-git-pipeline -> git -> credentials
+blueocean -> blueocean-git-pipeline -> git -> credentials-binding
+blueocean -> blueocean-git-pipeline -> git -> mailer
+blueocean -> blueocean-git-pipeline -> git -> scm-api
+blueocean -> blueocean-git-pipeline -> git -> script-security
+blueocean -> blueocean-git-pipeline -> git -> ssh-credentials
+blueocean -> blueocean-git-pipeline -> git -> structs
+blueocean -> blueocean-git-pipeline -> git -> workflow-scm-step
+blueocean -> blueocean-git-pipeline -> git -> workflow-step-api
+blueocean -> blueocean-github-pipeline -> apache-httpcomponents-client-4-api
+blueocean -> blueocean-github-pipeline -> blueocean-pipeline-api-impl -> blueocean-commons
+blueocean -> blueocean-github-pipeline -> blueocean-pipeline-api-impl -> caffeine-api
+blueocean -> blueocean-github-pipeline -> blueocean-pipeline-api-impl -> credentials
+blueocean -> blueocean-github-pipeline -> blueocean-pipeline-api-impl -> pipeline-stage-step
+blueocean -> blueocean-github-pipeline -> blueocean-pipeline-api-impl -> plain-credentials
+blueocean -> blueocean-github-pipeline -> blueocean-pipeline-api-impl -> scm-api
+blueocean -> blueocean-github-pipeline -> blueocean-pipeline-api-impl -> workflow-api
+blueocean -> blueocean-github-pipeline -> blueocean-pipeline-api-impl -> workflow-cps
+blueocean -> blueocean-github-pipeline -> blueocean-pipeline-api-impl -> workflow-job
+blueocean -> blueocean-github-pipeline -> blueocean-pipeline-api-impl -> workflow-step-api
+blueocean -> blueocean-github-pipeline -> blueocean-pipeline-api-impl -> workflow-support
+blueocean -> blueocean-github-pipeline -> github-api -> commons-lang3-api
+blueocean -> blueocean-github-pipeline -> github-api -> jackson2-api
+blueocean -> blueocean-github-pipeline -> github-api -> okhttp-api
+blueocean -> blueocean-github-pipeline -> github-branch-source -> caffeine-api
+blueocean -> blueocean-github-pipeline -> github-branch-source -> credentials
+blueocean -> blueocean-github-pipeline -> github-branch-source -> jjwt-api
+blueocean -> blueocean-github-pipeline -> github-branch-source -> okhttp-api
+blueocean -> blueocean-github-pipeline -> github-branch-source -> workflow-support
+blueocean -> blueocean-github-pipeline -> jackson2-api
+blueocean -> blueocean-github-pipeline -> pubsub-light -> instance-identity
+blueocean -> blueocean-i18n -> blueocean-rest -> blueocean-commons
+blueocean -> blueocean-jwt -> blueocean-commons
+blueocean -> blueocean-jwt -> mailer
+blueocean -> blueocean-personalization -> blueocean-dashboard -> blueocean-web -> jenkins-design-language
+blueocean -> blueocean-personalization -> blueocean-dashboard -> blueocean-web -> variant
+blueocean -> blueocean-pipeline-api-impl -> blueocean-commons
+blueocean -> blueocean-pipeline-api-impl -> caffeine-api
+blueocean -> blueocean-pipeline-api-impl -> credentials
+blueocean -> blueocean-pipeline-api-impl -> pipeline-stage-step
+blueocean -> blueocean-pipeline-api-impl -> plain-credentials
+blueocean -> blueocean-pipeline-api-impl -> scm-api
+blueocean -> blueocean-pipeline-api-impl -> workflow-api
+blueocean -> blueocean-pipeline-api-impl -> workflow-cps
+blueocean -> blueocean-pipeline-api-impl -> workflow-job
+blueocean -> blueocean-pipeline-api-impl -> workflow-step-api
+blueocean -> blueocean-pipeline-api-impl -> workflow-support
+blueocean -> blueocean-pipeline-editor -> blueocean-commons
+blueocean -> blueocean-pipeline-editor -> blueocean-dashboard -> blueocean-web -> jenkins-design-language
+blueocean -> blueocean-pipeline-editor -> blueocean-dashboard -> blueocean-web -> variant
+blueocean -> blueocean-pipeline-editor -> blueocean-pipeline-api-impl -> blueocean-commons
+blueocean -> blueocean-pipeline-editor -> blueocean-pipeline-api-impl -> caffeine-api
+blueocean -> blueocean-pipeline-editor -> blueocean-pipeline-api-impl -> credentials
+blueocean -> blueocean-pipeline-editor -> blueocean-pipeline-api-impl -> pipeline-stage-step
+blueocean -> blueocean-pipeline-editor -> blueocean-pipeline-api-impl -> plain-credentials
+blueocean -> blueocean-pipeline-editor -> blueocean-pipeline-api-impl -> scm-api
+blueocean -> blueocean-pipeline-editor -> blueocean-pipeline-api-impl -> workflow-api
+blueocean -> blueocean-pipeline-editor -> blueocean-pipeline-api-impl -> workflow-cps
+blueocean -> blueocean-pipeline-editor -> blueocean-pipeline-api-impl -> workflow-job
+blueocean -> blueocean-pipeline-editor -> blueocean-pipeline-api-impl -> workflow-step-api
+blueocean -> blueocean-pipeline-editor -> blueocean-pipeline-api-impl -> workflow-support
+blueocean -> blueocean-pipeline-editor -> blueocean-rest -> blueocean-commons
+blueocean -> blueocean-pipeline-editor -> pipeline-model-definition -> credentials
+blueocean -> blueocean-pipeline-editor -> pipeline-model-definition -> credentials-binding
+blueocean -> blueocean-pipeline-editor -> pipeline-model-definition -> ionicons-api
+blueocean -> blueocean-pipeline-editor -> pipeline-model-definition -> mailer
+blueocean -> blueocean-pipeline-editor -> pipeline-model-definition -> pipeline-model-api
+blueocean -> blueocean-pipeline-editor -> pipeline-model-definition -> pipeline-model-extensions
+blueocean -> blueocean-pipeline-editor -> pipeline-model-definition -> pipeline-stage-step
+blueocean -> blueocean-pipeline-editor -> pipeline-model-definition -> scm-api
+blueocean -> blueocean-pipeline-editor -> pipeline-model-definition -> structs
+blueocean -> blueocean-pipeline-editor -> pipeline-model-definition -> workflow-api
+blueocean -> blueocean-pipeline-editor -> pipeline-model-definition -> workflow-cps
+blueocean -> blueocean-pipeline-editor -> pipeline-model-definition -> workflow-durable-task-step
+blueocean -> blueocean-pipeline-editor -> pipeline-model-definition -> workflow-scm-step
+blueocean -> blueocean-pipeline-editor -> pipeline-model-definition -> workflow-support
+blueocean -> blueocean-rest -> blueocean-commons
+blueocean -> blueocean-rest-impl -> caffeine-api
+blueocean -> blueocean-rest-impl -> cloudbees-folder
+blueocean -> blueocean-rest-impl -> credentials
+blueocean -> blueocean-rest-impl -> display-url-api
+blueocean -> blueocean-rest-impl -> mailer
+blueocean -> blueocean-rest-impl -> workflow-cps
+blueocean -> blueocean-web -> jenkins-design-language
+blueocean -> blueocean-web -> variant
+blueocean -> jenkins-design-language
+blueocean -> pipeline-build-step -> script-security
+blueocean -> pipeline-build-step -> structs
+blueocean -> pipeline-build-step -> workflow-api
+blueocean -> pipeline-build-step -> workflow-step-api
+blueocean -> pipeline-build-step -> workflow-support
+blueocean -> pipeline-milestone-step -> workflow-api
+blueocean -> pipeline-milestone-step -> workflow-step-api
+blueocean-bitbucket-pipeline -> apache-httpcomponents-client-4-api
+blueocean-bitbucket-pipeline -> blueocean-commons
+blueocean-config -> blueocean-commons
+blueocean-core-js -> jenkins-design-language
+blueocean-dashboard -> blueocean-web -> jenkins-design-language
+blueocean-dashboard -> blueocean-web -> variant
+blueocean-display-url -> display-url-api
+blueocean-display-url -> scm-api
+blueocean-display-url -> workflow-job
+blueocean-events -> caffeine-api
+blueocean-git-pipeline -> blueocean-pipeline-api-impl -> blueocean-commons
+blueocean-git-pipeline -> blueocean-pipeline-api-impl -> caffeine-api
+blueocean-git-pipeline -> blueocean-pipeline-api-impl -> credentials
+blueocean-git-pipeline -> blueocean-pipeline-api-impl -> pipeline-stage-step
+blueocean-git-pipeline -> blueocean-pipeline-api-impl -> plain-credentials
+blueocean-git-pipeline -> blueocean-pipeline-api-impl -> scm-api
+blueocean-git-pipeline -> blueocean-pipeline-api-impl -> workflow-api
+blueocean-git-pipeline -> blueocean-pipeline-api-impl -> workflow-cps
+blueocean-git-pipeline -> blueocean-pipeline-api-impl -> workflow-job
+blueocean-git-pipeline -> blueocean-pipeline-api-impl -> workflow-step-api
+blueocean-git-pipeline -> blueocean-pipeline-api-impl -> workflow-support
+blueocean-git-pipeline -> blueocean-pipeline-scm-api -> credentials
+blueocean-git-pipeline -> git -> credentials
+blueocean-git-pipeline -> git -> credentials-binding
+blueocean-git-pipeline -> git -> mailer
+blueocean-git-pipeline -> git -> scm-api
+blueocean-git-pipeline -> git -> script-security
+blueocean-git-pipeline -> git -> ssh-credentials
+blueocean-git-pipeline -> git -> structs
+blueocean-git-pipeline -> git -> workflow-scm-step
+blueocean-git-pipeline -> git -> workflow-step-api
+blueocean-github-pipeline -> apache-httpcomponents-client-4-api
+blueocean-github-pipeline -> jackson2-api
+blueocean-i18n -> blueocean-rest -> blueocean-commons
+blueocean-jwt -> blueocean-commons
+blueocean-jwt -> mailer
+blueocean-personalization -> blueocean-dashboard -> blueocean-web -> jenkins-design-language
+blueocean-personalization -> blueocean-dashboard -> blueocean-web -> variant
+blueocean-pipeline-api-impl -> blueocean-commons
+blueocean-pipeline-api-impl -> caffeine-api
+blueocean-pipeline-api-impl -> credentials
+blueocean-pipeline-api-impl -> pipeline-stage-step
+blueocean-pipeline-api-impl -> plain-credentials
+blueocean-pipeline-api-impl -> scm-api
+blueocean-pipeline-api-impl -> workflow-api
+blueocean-pipeline-api-impl -> workflow-cps
+blueocean-pipeline-api-impl -> workflow-job
+blueocean-pipeline-api-impl -> workflow-step-api
+blueocean-pipeline-api-impl -> workflow-support
+blueocean-pipeline-editor -> blueocean-commons
+blueocean-pipeline-scm-api -> credentials
+blueocean-rest -> blueocean-commons
+blueocean-rest-impl -> caffeine-api
+blueocean-rest-impl -> cloudbees-folder
+blueocean-rest-impl -> credentials
+blueocean-rest-impl -> display-url-api
+blueocean-rest-impl -> mailer
+blueocean-rest-impl -> workflow-cps
+blueocean-web -> jenkins-design-language
+blueocean-web -> variant
+bootstrap5-api -> commons-lang3-api
+bootstrap5-api -> commons-text-api
+branch-api -> caffeine-api
+branch-api -> cloudbees-folder
+branch-api -> ionicons-api
+branch-api -> scm-api
+checks-api -> commons-lang3-api
+checks-api -> commons-text-api
+checks-api -> display-url-api
+checks-api -> workflow-step-api
+checks-api -> workflow-support
+cloudbees-bitbucket-branch-source -> apache-httpcomponents-client-4-api
+cloudbees-bitbucket-branch-source -> authentication-tokens
+cloudbees-bitbucket-branch-source -> display-url-api
+cloudbees-bitbucket-branch-source -> handy-uri-templates-2-api
+cloudbees-bitbucket-branch-source -> jackson2-api
+cloudbees-bitbucket-branch-source -> plain-credentials
+cloudbees-bitbucket-branch-source -> scm-api
+cloudbees-bitbucket-branch-source -> structs
+cloudbees-casc-api -> cloudbees-casc-client -> cloudbees-analytics
+cloudbees-casc-api -> cloudbees-casc-client -> cloudbees-assurance
+cloudbees-casc-api -> cloudbees-casc-client -> cloudbees-casc-items-api -> cloudbees-folder
+cloudbees-casc-api -> cloudbees-casc-client -> cloudbees-casc-items-api -> commons-lang3-api
+cloudbees-casc-api -> cloudbees-casc-client -> cloudbees-casc-items-api -> configuration-as-code -> caffeine-api
+cloudbees-casc-api -> cloudbees-casc-client -> cloudbees-casc-items-api -> configuration-as-code -> commons-text-api
+cloudbees-casc-api -> cloudbees-casc-client -> cloudbees-casc-items-api -> configuration-as-code -> prism-api -> antisamy-markup-formatter
+cloudbees-casc-api -> cloudbees-casc-client -> cloudbees-casc-items-api -> configuration-as-code -> prism-api -> bootstrap5-api -> commons-lang3-api
+cloudbees-casc-api -> cloudbees-casc-client -> cloudbees-casc-items-api -> configuration-as-code -> prism-api -> bootstrap5-api -> commons-text-api
+cloudbees-casc-api -> cloudbees-casc-client -> cloudbees-casc-items-api -> configuration-as-code -> prism-api -> commons-lang3-api
+cloudbees-casc-api -> cloudbees-casc-client -> cloudbees-casc-items-api -> configuration-as-code -> prism-api -> commons-text-api
+cloudbees-casc-api -> cloudbees-casc-client -> cloudbees-casc-items-api -> configuration-as-code -> prism-api -> font-awesome-api -> commons-lang3-api
+cloudbees-casc-api -> cloudbees-casc-client -> cloudbees-casc-items-api -> configuration-as-code -> prism-api -> font-awesome-api -> commons-text-api
+cloudbees-casc-api -> cloudbees-casc-client -> cloudbees-casc-items-api -> configuration-as-code -> prism-api -> plugin-util-api -> commons-lang3-api
+cloudbees-casc-api -> cloudbees-casc-client -> cloudbees-casc-items-api -> configuration-as-code -> prism-api -> plugin-util-api -> commons-text-api
+cloudbees-casc-api -> cloudbees-casc-client -> cloudbees-casc-items-api -> configuration-as-code -> prism-api -> plugin-util-api -> workflow-api
+cloudbees-casc-api -> cloudbees-casc-client -> cloudbees-casc-items-api -> configuration-as-code -> prism-api -> plugin-util-api -> workflow-step-api
+cloudbees-casc-api -> cloudbees-casc-client -> cloudbees-casc-items-api -> configuration-as-code -> prism-api -> plugin-util-api -> workflow-support
+cloudbees-casc-api -> cloudbees-casc-client -> cloudbees-casc-items-api -> configuration-as-code -> snakeyaml-api
+cloudbees-casc-api -> cloudbees-casc-client -> cloudbees-casc-items-api -> nectar-license
+cloudbees-casc-api -> cloudbees-casc-client -> cloudbees-casc-items-api -> nectar-rbac
+cloudbees-casc-api -> cloudbees-casc-client -> cloudbees-casc-items-api -> snakeyaml-api
+cloudbees-casc-api -> cloudbees-casc-client -> cloudbees-folder
+cloudbees-casc-api -> cloudbees-casc-client -> commons-lang3-api
+cloudbees-casc-api -> cloudbees-casc-client -> instance-identity
+cloudbees-casc-api -> cloudbees-casc-client -> ionicons-api
+cloudbees-casc-api -> cloudbees-casc-client -> javax-activation-api
+cloudbees-casc-api -> cloudbees-casc-client -> nectar-license
+cloudbees-casc-api -> cloudbees-casc-client -> snakeyaml-api
+cloudbees-casc-api -> cloudbees-casc-client -> support-core
+cloudbees-casc-api -> cloudbees-casc-items-api -> cloudbees-folder
+cloudbees-casc-api -> cloudbees-casc-items-api -> commons-lang3-api
+cloudbees-casc-api -> cloudbees-casc-items-api -> nectar-license
+cloudbees-casc-api -> cloudbees-casc-items-api -> nectar-rbac
+cloudbees-casc-api -> cloudbees-casc-items-api -> snakeyaml-api
+cloudbees-casc-api -> cloudbees-casc-items-commons -> cloudbees-casc-items-api -> cloudbees-folder
+cloudbees-casc-api -> cloudbees-casc-items-commons -> cloudbees-casc-items-api -> commons-lang3-api
+cloudbees-casc-api -> cloudbees-casc-items-commons -> cloudbees-casc-items-api -> nectar-license
+cloudbees-casc-api -> cloudbees-casc-items-commons -> cloudbees-casc-items-api -> nectar-rbac
+cloudbees-casc-api -> cloudbees-casc-items-commons -> cloudbees-casc-items-api -> snakeyaml-api
+cloudbees-casc-api -> cloudbees-casc-items-commons -> cloudbees-folder
+cloudbees-casc-api -> cloudbees-casc-items-commons -> commons-lang3-api
+cloudbees-casc-api -> cloudbees-casc-items-commons -> configuration-as-code -> caffeine-api
+cloudbees-casc-api -> cloudbees-casc-items-commons -> configuration-as-code -> commons-text-api
+cloudbees-casc-api -> cloudbees-casc-items-commons -> configuration-as-code -> snakeyaml-api
+cloudbees-casc-api -> cloudbees-casc-items-commons -> credentials-binding
+cloudbees-casc-api -> cloudbees-casc-items-commons -> nectar-license
+cloudbees-casc-api -> cloudbees-casc-items-commons -> nectar-rbac
+cloudbees-casc-api -> cloudbees-casc-items-commons -> snakeyaml-api
+cloudbees-casc-client -> cloudbees-analytics
+cloudbees-casc-client -> cloudbees-assurance
+cloudbees-casc-client -> cloudbees-folder
+cloudbees-casc-client -> commons-lang3-api
+cloudbees-casc-client -> instance-identity
+cloudbees-casc-client -> ionicons-api
+cloudbees-casc-client -> javax-activation-api
+cloudbees-casc-client -> nectar-license
+cloudbees-casc-client -> snakeyaml-api
+cloudbees-casc-client -> support-core
+cloudbees-casc-items-api -> cloudbees-folder
+cloudbees-casc-items-api -> commons-lang3-api
+cloudbees-casc-items-api -> nectar-license
+cloudbees-casc-items-api -> nectar-rbac
+cloudbees-casc-items-api -> snakeyaml-api
+cloudbees-casc-items-commons -> cloudbees-folder
+cloudbees-casc-items-commons -> commons-lang3-api
+cloudbees-casc-items-commons -> credentials-binding
+cloudbees-casc-items-commons -> nectar-license
+cloudbees-casc-items-commons -> nectar-rbac
+cloudbees-casc-items-commons -> snakeyaml-api
+cloudbees-casc-items-controller -> cloudbees-casc-items-api -> cloudbees-folder
+cloudbees-casc-items-controller -> cloudbees-casc-items-api -> commons-lang3-api
+cloudbees-casc-items-controller -> cloudbees-casc-items-api -> nectar-license
+cloudbees-casc-items-controller -> cloudbees-casc-items-api -> nectar-rbac
+cloudbees-casc-items-controller -> cloudbees-casc-items-api -> snakeyaml-api
+cloudbees-casc-items-controller -> cloudbees-casc-items-commons -> cloudbees-folder
+cloudbees-casc-items-controller -> cloudbees-casc-items-commons -> commons-lang3-api
+cloudbees-casc-items-controller -> cloudbees-casc-items-commons -> credentials-binding
+cloudbees-casc-items-controller -> cloudbees-casc-items-commons -> nectar-license
+cloudbees-casc-items-controller -> cloudbees-casc-items-commons -> nectar-rbac
+cloudbees-casc-items-controller -> cloudbees-casc-items-commons -> snakeyaml-api
+cloudbees-casc-items-controller -> cloudbees-folder
+cloudbees-casc-items-controller -> commons-lang3-api
+cloudbees-casc-items-controller -> configuration-as-code -> caffeine-api
+cloudbees-casc-items-controller -> configuration-as-code -> commons-text-api
+cloudbees-casc-items-controller -> configuration-as-code -> snakeyaml-api
+cloudbees-casc-items-controller -> nectar-license
+cloudbees-casc-items-controller -> nectar-rbac
+cloudbees-casc-items-controller -> snakeyaml-api
+cloudbees-casc-items-controller -> support-core
+cloudbees-disk-usage-simple
+cloudbees-groovy-view -> cloudbees-template -> cloudbees-folder
+cloudbees-groovy-view -> cloudbees-template -> cloudbees-folders-plus
+cloudbees-groovy-view -> cloudbees-template -> credentials
+cloudbees-groovy-view -> cloudbees-template -> nectar-license
+cloudbees-groovy-view -> cloudbees-template -> script-security
+cloudbees-groovy-view -> cloudbees-template -> variant
+cloudbees-groovy-view -> nectar-license
+cloudbees-groovy-view -> script-security
+cloudbees-monitoring -> jakarta-mail-api
+cloudbees-monitoring -> mailer
+cloudbees-monitoring -> metrics
+cloudbees-monitoring -> nectar-license
+cloudbees-nodes-plus -> cloudbees-license
+cloudbees-nodes-plus -> jakarta-mail-api
+cloudbees-nodes-plus -> mailer
+cloudbees-nodes-plus -> nectar-license
+cloudbees-nodes-plus -> structs
+cloudbees-ssh-slaves -> bouncycastle-api
+cloudbees-ssh-slaves -> cloudbees-license
+cloudbees-ssh-slaves -> credentials
+cloudbees-ssh-slaves -> jdk-tool
+cloudbees-ssh-slaves -> mina-sshd-api-common
+cloudbees-ssh-slaves -> mina-sshd-api-core -> mina-sshd-api-common
+cloudbees-ssh-slaves -> mina-sshd-api-scp -> mina-sshd-api-core -> mina-sshd-api-common
+cloudbees-ssh-slaves -> mina-sshd-api-sftp -> mina-sshd-api-core -> mina-sshd-api-common
+cloudbees-ssh-slaves -> nectar-license
+cloudbees-ssh-slaves -> ssh-credentials
+cloudbees-ssh-slaves -> structs
+cloudbees-template -> cloudbees-folder
+cloudbees-template -> cloudbees-folders-plus
+cloudbees-template -> credentials
+cloudbees-template -> nectar-license
+cloudbees-template -> script-security
+cloudbees-template -> variant
+cloudbees-view-creation-filter -> nectar-license
+cloudbees-workflow-template -> apache-httpcomponents-client-4-api
+cloudbees-workflow-template -> cloudbees-folder
+cloudbees-workflow-template -> cloudbees-template -> cloudbees-folder
+cloudbees-workflow-template -> cloudbees-template -> cloudbees-folders-plus
+cloudbees-workflow-template -> cloudbees-template -> credentials
+cloudbees-workflow-template -> cloudbees-template -> nectar-license
+cloudbees-workflow-template -> cloudbees-template -> script-security
+cloudbees-workflow-template -> cloudbees-template -> variant
+cloudbees-workflow-template -> credentials
+cloudbees-workflow-template -> git -> credentials
+cloudbees-workflow-template -> git -> credentials-binding
+cloudbees-workflow-template -> git -> mailer
+cloudbees-workflow-template -> git -> scm-api
+cloudbees-workflow-template -> git -> script-security
+cloudbees-workflow-template -> git -> ssh-credentials
+cloudbees-workflow-template -> git -> structs
+cloudbees-workflow-template -> git -> workflow-scm-step
+cloudbees-workflow-template -> git -> workflow-step-api
+cloudbees-workflow-template -> nectar-license
+cloudbees-workflow-template -> pipeline-model-definition -> credentials
+cloudbees-workflow-template -> pipeline-model-definition -> credentials-binding
+cloudbees-workflow-template -> pipeline-model-definition -> ionicons-api
+cloudbees-workflow-template -> pipeline-model-definition -> mailer
+cloudbees-workflow-template -> pipeline-model-definition -> pipeline-model-api
+cloudbees-workflow-template -> pipeline-model-definition -> pipeline-model-extensions
+cloudbees-workflow-template -> pipeline-model-definition -> pipeline-stage-step
+cloudbees-workflow-template -> pipeline-model-definition -> scm-api
+cloudbees-workflow-template -> pipeline-model-definition -> structs
+cloudbees-workflow-template -> pipeline-model-definition -> workflow-api
+cloudbees-workflow-template -> pipeline-model-definition -> workflow-cps
+cloudbees-workflow-template -> pipeline-model-definition -> workflow-durable-task-step
+cloudbees-workflow-template -> pipeline-model-definition -> workflow-scm-step
+cloudbees-workflow-template -> pipeline-model-definition -> workflow-support
+cloudbees-workflow-template -> scm-api
+cloudbees-workflow-template -> script-security
+cloudbees-workflow-template -> snakeyaml-api
+cloudbees-workflow-template -> structs
+cloudbees-workflow-template -> workflow-api
+cloudbees-workflow-template -> workflow-cps
+cloudbees-workflow-template -> workflow-job
+cloudbees-workflow-template -> workflow-multibranch -> cloudbees-folder
+cloudbees-workflow-template -> workflow-multibranch -> ionicons-api
+cloudbees-workflow-template -> workflow-multibranch -> scm-api
+cloudbees-workflow-template -> workflow-multibranch -> script-security
+cloudbees-workflow-template -> workflow-multibranch -> workflow-api
+cloudbees-workflow-template -> workflow-multibranch -> workflow-cps
+cloudbees-workflow-template -> workflow-multibranch -> workflow-job
+cloudbees-workflow-template -> workflow-multibranch -> workflow-scm-step
+cloudbees-workflow-template -> workflow-multibranch -> workflow-step-api
+cloudbees-workflow-template -> workflow-multibranch -> workflow-support
+cloudbees-workflow-template -> workflow-scm-step
+cloudbees-workflow-template -> workflow-step-api
+cloudbees-workflow-ui -> nectar-license
+cloudbees-workflow-ui -> pipeline-stage-view -> pipeline-rest-api -> jackson2-api
+cloudbees-workflow-ui -> pipeline-stage-view -> pipeline-rest-api -> pipeline-graph-analysis -> pipeline-stage-step
+cloudbees-workflow-ui -> pipeline-stage-view -> pipeline-rest-api -> pipeline-graph-analysis -> workflow-api
+cloudbees-workflow-ui -> pipeline-stage-view -> pipeline-rest-api -> pipeline-graph-analysis -> workflow-cps
+cloudbees-workflow-ui -> pipeline-stage-view -> pipeline-rest-api -> pipeline-graph-analysis -> workflow-job
+cloudbees-workflow-ui -> pipeline-stage-view -> pipeline-rest-api -> pipeline-graph-analysis -> workflow-step-api
+cloudbees-workflow-ui -> pipeline-stage-view -> pipeline-rest-api -> pipeline-graph-analysis -> workflow-support
+cloudbees-workflow-ui -> pipeline-stage-view -> pipeline-rest-api -> pipeline-input-step -> credentials
+cloudbees-workflow-ui -> pipeline-stage-view -> pipeline-rest-api -> pipeline-input-step -> structs
+cloudbees-workflow-ui -> pipeline-stage-view -> pipeline-rest-api -> pipeline-input-step -> workflow-api
+cloudbees-workflow-ui -> pipeline-stage-view -> pipeline-rest-api -> pipeline-input-step -> workflow-step-api
+cloudbees-workflow-ui -> pipeline-stage-view -> pipeline-rest-api -> pipeline-input-step -> workflow-support
+cloudbees-workflow-ui -> pipeline-stage-view -> pipeline-rest-api -> pipeline-stage-step
+cloudbees-workflow-ui -> pipeline-stage-view -> pipeline-rest-api -> workflow-api
+cloudbees-workflow-ui -> pipeline-stage-view -> pipeline-rest-api -> workflow-job
+cloudbees-workflow-ui -> pipeline-stage-view -> pipeline-rest-api -> workflow-step-api
+cloudbees-workflow-ui -> pipeline-stage-view -> pipeline-rest-api -> workflow-support
+cloudbees-workflow-ui -> pipeline-stage-view -> workflow-api
+cloudbees-workflow-ui -> pipeline-stage-view -> workflow-job
+cloudbees-workflow-ui -> workflow-api
+cloudbees-workflow-ui -> workflow-cps-checkpoint -> nectar-license
+cloudbees-workflow-ui -> workflow-cps-checkpoint -> workflow-api
+cloudbees-workflow-ui -> workflow-cps-checkpoint -> workflow-cps
+cloudbees-workflow-ui -> workflow-cps-checkpoint -> workflow-job
+cloudbees-workflow-ui -> workflow-cps-checkpoint -> workflow-step-api
+cloudbees-workflow-ui -> workflow-cps-checkpoint -> workflow-support
+cloudbees-workflow-ui -> workflow-job
+configuration-as-code -> caffeine-api
+configuration-as-code -> commons-text-api
+configuration-as-code -> snakeyaml-api
+cucumer-reports
+echarts-api -> commons-lang3-api
+echarts-api -> commons-text-api
+echarts-api -> jackson2-api
+echarts-api -> jquery3-api
+email-ext -> credentials
+email-ext -> jackson2-api
+email-ext -> jakarta-mail-api
+email-ext -> junit -> display-url-api
+email-ext -> junit -> ionicons-api
+email-ext -> junit -> jackson2-api
+email-ext -> junit -> script-security
+email-ext -> junit -> workflow-api
+email-ext -> junit -> workflow-step-api
+email-ext -> mailer
+email-ext -> matrix-project -> script-security
+email-ext -> scm-api
+email-ext -> script-security
+email-ext -> structs
+email-ext -> token-macro
+emailext-templates
+extended-choice-parameter -> script-security
+favorite -> ionicons-api
+favorite -> mailer
+favorite -> token-macro
+font-awesome-api -> commons-lang3-api
+font-awesome-api -> commons-text-api
+git -> credentials
+git -> credentials-binding
+git -> mailer
+git -> scm-api
+git -> script-security
+git -> ssh-credentials
+git -> structs
+git -> workflow-scm-step
+git -> workflow-step-api
+git-client -> apache-httpcomponents-client-4-api
+git-client -> credentials
+git-client -> mina-sshd-api-common
+git-client -> script-security
+git-client -> ssh-credentials
+git-client -> structs
+git-client -> trilead-api
+git-server -> instance-identity
+github -> commons-lang3-api
+github -> credentials
+github -> display-url-api
+github -> instance-identity
+github -> okhttp-api
+github -> plain-credentials
+github -> scm-api
+github -> token-macro
+github-api -> commons-lang3-api
+github-api -> jackson2-api
+github-api -> okhttp-api
+github-branch-source -> caffeine-api
+github-branch-source -> credentials
+github-branch-source -> jjwt-api
+github-branch-source -> okhttp-api
+github-branch-source -> workflow-support
+gkp-credentials-plgin
+htmlpublisher -> workflow-step-api
+http_request -> apache-httpcomponents-client-4-api
+http_request -> credentials
+http_request -> script-security
+http_request -> workflow-basic-steps -> apache-httpcomponents-client-4-api
+http_request -> workflow-basic-steps -> jakarta-mail-api
+http_request -> workflow-basic-steps -> mailer
+http_request -> workflow-basic-steps -> structs
+http_request -> workflow-basic-steps -> workflow-api
+http_request -> workflow-basic-steps -> workflow-durable-task-step
+http_request -> workflow-basic-steps -> workflow-step-api
+http_request -> workflow-durable-task-step
+infradna-backup -> apache-httpcomponents-client-4-api
+infradna-backup -> aws-credentials -> aws-java-sdk-ec2 -> aws-java-sdk-minimal -> apache-httpcomponents-client-4-api
+infradna-backup -> aws-credentials -> aws-java-sdk-ec2 -> aws-java-sdk-minimal -> jackson2-api
+infradna-backup -> aws-credentials -> aws-java-sdk-ec2 -> aws-java-sdk-minimal -> jaxb
+infradna-backup -> aws-credentials -> aws-java-sdk-ec2 -> aws-java-sdk-minimal -> joda-time-api
+infradna-backup -> aws-credentials -> credentials
+infradna-backup -> aws-credentials -> credentials-binding
+infradna-backup -> aws-credentials -> script-security
+infradna-backup -> aws-credentials -> structs
+infradna-backup -> aws-credentials -> variant
+infradna-backup -> aws-java-sdk-minimal -> apache-httpcomponents-client-4-api
+infradna-backup -> aws-java-sdk-minimal -> jackson2-api
+infradna-backup -> aws-java-sdk-minimal -> jaxb
+infradna-backup -> aws-java-sdk-minimal -> joda-time-api
+infradna-backup -> cloudbees-license
+infradna-backup -> credentials
+infradna-backup -> jackson2-api
+infradna-backup -> mina-sshd-api-common
+infradna-backup -> mina-sshd-api-core -> mina-sshd-api-common
+infradna-backup -> mina-sshd-api-sftp -> mina-sshd-api-core -> mina-sshd-api-common
+infradna-backup -> nectar-license
+infradna-backup -> ssh-credentials
+javadoc
+jenkins-design-language
+jenkins-telemetry
+job-dsl -> branch-api -> caffeine-api
+job-dsl -> branch-api -> cloudbees-folder
+job-dsl -> branch-api -> ionicons-api
+job-dsl -> branch-api -> scm-api
+job-dsl -> cloudbees-folder
+job-dsl -> script-security
+job-dsl -> structs
+jpmc-pipeline-plugin
+jquery
+jsch -> ssh-credentials
+jsch -> trilead-api
+junit -> display-url-api
+junit -> ionicons-api
+junit -> jackson2-api
+junit -> script-security
+junit -> workflow-api
+junit -> workflow-step-api
+ldap -> mailer
+logfilesizechecker
+mask-passwords -> structs
+matrix-project -> script-security
+maven-plugin -> apache-httpcomponents-client-4-api
+maven-plugin -> commons-lang3-api
+maven-plugin -> javadoc
+maven-plugin -> jsch -> ssh-credentials
+maven-plugin -> jsch -> trilead-api
+maven-plugin -> junit -> display-url-api
+maven-plugin -> junit -> ionicons-api
+maven-plugin -> junit -> jackson2-api
+maven-plugin -> junit -> script-security
+maven-plugin -> junit -> workflow-api
+maven-plugin -> junit -> workflow-step-api
+maven-plugin -> mailer
+mesos -> metrics
+mina-sshd-api-common
+mina-sshd-api-core -> mina-sshd-api-common
+mina-sshd-api-scp -> mina-sshd-api-core -> mina-sshd-api-common
+mina-sshd-api-sftp -> mina-sshd-api-core -> mina-sshd-api-common
+node-iterator-api
+operations-center-cloud -> cloudbees-license
+operations-center-cloud -> durable-task
+operations-center-cloud -> nectar-license
+operations-center-cloud -> nectar-rbac
+operations-center-cloud -> node-iterator-api
+operations-center-cloud -> operations-center-client
+operations-center-cloud -> operations-center-context
+pipeline-build-step -> script-security
+pipeline-build-step -> structs
+pipeline-build-step -> workflow-api
+pipeline-build-step -> workflow-step-api
+pipeline-build-step -> workflow-support
+pipeline-graph-analysis -> pipeline-stage-step
+pipeline-graph-analysis -> workflow-api
+pipeline-graph-analysis -> workflow-cps
+pipeline-graph-analysis -> workflow-job
+pipeline-graph-analysis -> workflow-step-api
+pipeline-graph-analysis -> workflow-support
+pipeline-groovy-lib -> cloudbees-folder
+pipeline-groovy-lib -> scm-api
+pipeline-groovy-lib -> script-security
+pipeline-groovy-lib -> structs
+pipeline-groovy-lib -> variant
+pipeline-groovy-lib -> workflow-api
+pipeline-groovy-lib -> workflow-cps
+pipeline-groovy-lib -> workflow-scm-step
+pipeline-groovy-lib -> workflow-step-api
+pipeline-input-step -> credentials
+pipeline-input-step -> structs
+pipeline-input-step -> workflow-api
+pipeline-input-step -> workflow-step-api
+pipeline-input-step -> workflow-support
+pipeline-jules-steps
+pipeline-milestone-step -> workflow-api
+pipeline-milestone-step -> workflow-step-api
+pipeline-model-definition -> credentials
+pipeline-model-definition -> credentials-binding
+pipeline-model-definition -> ionicons-api
+pipeline-model-definition -> mailer
+pipeline-model-definition -> pipeline-model-api
+pipeline-model-definition -> pipeline-model-extensions
+pipeline-model-definition -> pipeline-stage-step
+pipeline-model-definition -> scm-api
+pipeline-model-definition -> structs
+pipeline-model-definition -> workflow-api
+pipeline-model-definition -> workflow-cps
+pipeline-model-definition -> workflow-durable-task-step
+pipeline-model-definition -> workflow-scm-step
+pipeline-model-definition -> workflow-support
+pipeline-rest-api -> jackson2-api
+pipeline-rest-api -> pipeline-stage-step
+pipeline-rest-api -> workflow-api
+pipeline-rest-api -> workflow-job
+pipeline-rest-api -> workflow-step-api
+pipeline-rest-api -> workflow-support
+pipeline-stage-tags-metadata -> workflow-api
+pipeline-stage-view -> workflow-api
+pipeline-stage-view -> workflow-job
+pipeline-utility-steps -> commons-lang3-api
+pipeline-utility-steps -> commons-text-api
+pipeline-utility-steps -> script-security
+pipeline-utility-steps -> snakeyaml-api
+pipeline-utility-steps -> structs
+pipeline-utility-steps -> workflow-step-api
+plugin-util-api -> commons-lang3-api
+plugin-util-api -> commons-text-api
+plugin-util-api -> workflow-api
+plugin-util-api -> workflow-step-api
+plugin-util-api -> workflow-support
+prism-api -> antisamy-markup-formatter
+prism-api -> bootstrap5-api -> commons-lang3-api
+prism-api -> bootstrap5-api -> commons-text-api
+prism-api -> commons-lang3-api
+prism-api -> commons-text-api
+prism-api -> font-awesome-api -> commons-lang3-api
+prism-api -> font-awesome-api -> commons-text-api
+prism-api -> plugin-util-api -> commons-lang3-api
+prism-api -> plugin-util-api -> commons-text-api
+prism-api -> plugin-util-api -> workflow-api
+prism-api -> plugin-util-api -> workflow-step-api
+prism-api -> plugin-util-api -> workflow-support
+prometheus -> junit -> display-url-api
+prometheus -> junit -> ionicons-api
+prometheus -> junit -> jackson2-api
+prometheus -> junit -> script-security
+prometheus -> junit -> workflow-api
+prometheus -> junit -> workflow-step-api
+prometheus -> metrics
+prometheus -> pipeline-rest-api -> jackson2-api
+prometheus -> pipeline-rest-api -> pipeline-stage-step
+prometheus -> pipeline-rest-api -> workflow-api
+prometheus -> pipeline-rest-api -> workflow-job
+prometheus -> pipeline-rest-api -> workflow-step-api
+prometheus -> pipeline-rest-api -> workflow-support
+pubsub-light -> instance-identity
+reverse-proxy-auth-plugin -> mailer
+scm-plugin
+simple-theme-plugin
+sse-gateway -> pubsub-light -> instance-identity
+sshd -> instance-identity
+sshd -> mina-sshd-api-common
+timestamper -> antisamy-markup-formatter
+timestamper -> commons-lang3-api
+timestamper -> workflow-api
+timestamper -> workflow-step-api
+versionnumber -> workflow-step-api
+wikitext -> nectar-license
+workflow-aggregator -> pipeline-build-step -> script-security
+workflow-aggregator -> pipeline-build-step -> structs
+workflow-aggregator -> pipeline-build-step -> workflow-api
+workflow-aggregator -> pipeline-build-step -> workflow-step-api
+workflow-aggregator -> pipeline-build-step -> workflow-support
+workflow-aggregator -> pipeline-groovy-lib -> cloudbees-folder
+workflow-aggregator -> pipeline-groovy-lib -> scm-api
+workflow-aggregator -> pipeline-groovy-lib -> script-security
+workflow-aggregator -> pipeline-groovy-lib -> structs
+workflow-aggregator -> pipeline-groovy-lib -> variant
+workflow-aggregator -> pipeline-groovy-lib -> workflow-api
+workflow-aggregator -> pipeline-groovy-lib -> workflow-cps
+workflow-aggregator -> pipeline-groovy-lib -> workflow-scm-step
+workflow-aggregator -> pipeline-groovy-lib -> workflow-step-api
+workflow-aggregator -> pipeline-input-step -> credentials
+workflow-aggregator -> pipeline-input-step -> structs
+workflow-aggregator -> pipeline-input-step -> workflow-api
+workflow-aggregator -> pipeline-input-step -> workflow-step-api
+workflow-aggregator -> pipeline-input-step -> workflow-support
+workflow-aggregator -> pipeline-milestone-step -> workflow-api
+workflow-aggregator -> pipeline-milestone-step -> workflow-step-api
+workflow-aggregator -> pipeline-model-definition -> credentials
+workflow-aggregator -> pipeline-model-definition -> credentials-binding
+workflow-aggregator -> pipeline-model-definition -> ionicons-api
+workflow-aggregator -> pipeline-model-definition -> mailer
+workflow-aggregator -> pipeline-model-definition -> pipeline-model-api
+workflow-aggregator -> pipeline-model-definition -> pipeline-model-extensions
+workflow-aggregator -> pipeline-model-definition -> pipeline-stage-step
+workflow-aggregator -> pipeline-model-definition -> scm-api
+workflow-aggregator -> pipeline-model-definition -> structs
+workflow-aggregator -> pipeline-model-definition -> workflow-api
+workflow-aggregator -> pipeline-model-definition -> workflow-cps
+workflow-aggregator -> pipeline-model-definition -> workflow-durable-task-step
+workflow-aggregator -> pipeline-model-definition -> workflow-scm-step
+workflow-aggregator -> pipeline-model-definition -> workflow-support
+workflow-aggregator -> pipeline-stage-step
+workflow-aggregator -> workflow-basic-steps -> apache-httpcomponents-client-4-api
+workflow-aggregator -> workflow-basic-steps -> jakarta-mail-api
+workflow-aggregator -> workflow-basic-steps -> mailer
+workflow-aggregator -> workflow-basic-steps -> structs
+workflow-aggregator -> workflow-basic-steps -> workflow-api
+workflow-aggregator -> workflow-basic-steps -> workflow-durable-task-step
+workflow-aggregator -> workflow-basic-steps -> workflow-step-api
+workflow-aggregator -> workflow-cps
+workflow-aggregator -> workflow-durable-task-step
+workflow-aggregator -> workflow-job
+workflow-aggregator -> workflow-multibranch -> cloudbees-folder
+workflow-aggregator -> workflow-multibranch -> ionicons-api
+workflow-aggregator -> workflow-multibranch -> scm-api
+workflow-aggregator -> workflow-multibranch -> script-security
+workflow-aggregator -> workflow-multibranch -> workflow-api
+workflow-aggregator -> workflow-multibranch -> workflow-cps
+workflow-aggregator -> workflow-multibranch -> workflow-job
+workflow-aggregator -> workflow-multibranch -> workflow-scm-step
+workflow-aggregator -> workflow-multibranch -> workflow-step-api
+workflow-aggregator -> workflow-multibranch -> workflow-support
+workflow-basic-steps -> apache-httpcomponents-client-4-api
+workflow-basic-steps -> jakarta-mail-api
+workflow-basic-steps -> mailer
+workflow-basic-steps -> structs
+workflow-basic-steps -> workflow-api
+workflow-basic-steps -> workflow-durable-task-step
+workflow-basic-steps -> workflow-step-api
+workflow-cps-checkpoint -> nectar-license
+workflow-cps-checkpoint -> workflow-api
+workflow-cps-checkpoint -> workflow-cps
+workflow-cps-checkpoint -> workflow-job
+workflow-cps-checkpoint -> workflow-step-api
+workflow-cps-checkpoint -> workflow-support
+workflow-cps-global-lib -> git-server -> git-client -> apache-httpcomponents-client-4-api
+workflow-cps-global-lib -> git-server -> git-client -> credentials
+workflow-cps-global-lib -> git-server -> git-client -> mina-sshd-api-common
+workflow-cps-global-lib -> git-server -> git-client -> script-security
+workflow-cps-global-lib -> git-server -> git-client -> ssh-credentials
+workflow-cps-global-lib -> git-server -> git-client -> structs
+workflow-cps-global-lib -> git-server -> git-client -> trilead-api
+workflow-cps-global-lib -> git-server -> instance-identity
+workflow-cps-global-lib -> git-server -> sshd -> instance-identity
+workflow-cps-global-lib -> git-server -> sshd -> mina-sshd-api-common
+workflow-cps-global-lib -> git-server -> sshd -> mina-sshd-api-core -> mina-sshd-api-common
+workflow-cps-global-lib -> pipeline-groovy-lib -> cloudbees-folder
+workflow-cps-global-lib -> pipeline-groovy-lib -> scm-api
+workflow-cps-global-lib -> pipeline-groovy-lib -> script-security
+workflow-cps-global-lib -> pipeline-groovy-lib -> structs
+workflow-cps-global-lib -> pipeline-groovy-lib -> variant
+workflow-cps-global-lib -> pipeline-groovy-lib -> workflow-api
+workflow-cps-global-lib -> pipeline-groovy-lib -> workflow-cps
+workflow-cps-global-lib -> pipeline-groovy-lib -> workflow-scm-step
+workflow-cps-global-lib -> pipeline-groovy-lib -> workflow-step-api
+workflow-cps-global-lib -> workflow-cps
+workflow-multibranch -> cloudbees-folder
+workflow-multibranch -> ionicons-api
+workflow-multibranch -> scm-api
+workflow-multibranch -> script-security
+workflow-multibranch -> workflow-api
+workflow-multibranch -> workflow-cps
+workflow-multibranch -> workflow-job
+workflow-multibranch -> workflow-scm-step
+workflow-multibranch -> workflow-step-api
+workflow-multibranch -> workflow-support
+xvfb -> structs

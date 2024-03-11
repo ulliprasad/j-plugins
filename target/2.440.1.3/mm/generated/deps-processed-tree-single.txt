@@ -695,7 +695,8 @@ cloudbees-workflow-ui -> workflow-job
 configuration-as-code -> caffeine-api
 configuration-as-code -> commons-text-api
 configuration-as-code -> snakeyaml-api
-cucumer-reports
+cucumber-reports -> structs
+cucumber-reports -> token-macro
 echarts-api -> commons-lang3-api
 echarts-api -> commons-text-api
 echarts-api -> jackson2-api
@@ -703,19 +704,26 @@ echarts-api -> jquery3-api
 email-ext -> credentials
 email-ext -> jackson2-api
 email-ext -> jakarta-mail-api
-email-ext -> junit -> display-url-api
-email-ext -> junit -> ionicons-api
-email-ext -> junit -> jackson2-api
-email-ext -> junit -> script-security
-email-ext -> junit -> workflow-api
-email-ext -> junit -> workflow-step-api
 email-ext -> mailer
-email-ext -> matrix-project -> script-security
 email-ext -> scm-api
 email-ext -> script-security
 email-ext -> structs
 email-ext -> token-macro
-emailext-templates
+emailext-template -> email-ext -> credentials
+emailext-template -> email-ext -> jackson2-api
+emailext-template -> email-ext -> jakarta-mail-api
+emailext-template -> email-ext -> junit -> display-url-api
+emailext-template -> email-ext -> junit -> ionicons-api
+emailext-template -> email-ext -> junit -> jackson2-api
+emailext-template -> email-ext -> junit -> script-security
+emailext-template -> email-ext -> junit -> workflow-api
+emailext-template -> email-ext -> junit -> workflow-step-api
+emailext-template -> email-ext -> mailer
+emailext-template -> email-ext -> matrix-project -> script-security
+emailext-template -> email-ext -> scm-api
+emailext-template -> email-ext -> script-security
+emailext-template -> email-ext -> structs
+emailext-template -> email-ext -> token-macro
 extended-choice-parameter -> script-security
 favorite -> ionicons-api
 favorite -> mailer

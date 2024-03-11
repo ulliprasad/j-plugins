@@ -17,9 +17,9 @@ plugins:
   - id: cloudbees-workflow-template
   - id: cloudbees-workflow-ui
   - id: configuration-as-code
-  - id: cucumer-reports
+  - id: cucumber-reports
   - id: email-ext
-  - id: emailext-templates
+  - id: emailext-template
   - id: extended-choice-parameter
   - id: git
   - id: git-server

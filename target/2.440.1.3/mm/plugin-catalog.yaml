@@ -13,10 +13,10 @@ configurations:
         version: "1.9.1"
       cloudbees-disk-usage-simple:
         version: "203.v3f46a_7462b_1a_"
-      cucumer-reports:
+      cucumber-reports:
         version: "5.8.1"
-      emailext-templates:
-        version: "1.2"
+      emailext-template:
+        version: "1.5"
       extended-choice-parameter:
         version: "376.v2e02857547b_a_"
       gkp-credentials-plgin:
@@ -56,6 +56,6 @@ configurations:
       wikitext:
         version: "3.16"
       workflow-cps-global-lib:
-        version: "609.vd95673f149b_b"
+        version: "612.v55f2f80781ef"
       xvfb:
         version: "1.2"

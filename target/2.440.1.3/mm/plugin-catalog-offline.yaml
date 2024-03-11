@@ -13,10 +13,10 @@ configurations:
         url: "https://jenkins-updates.cloudbees.com/download/plugins/badge/1.9.1/badge.hpi"
       cloudbees-disk-usage-simple:
         url: "https://jenkins-updates.cloudbees.com/download/plugins/cloudbees-disk-usage-simple/203.v3f46a_7462b_1a_/cloudbees-disk-usage-simple.hpi"
-      cucumer-reports:
-        url: "https://jenkins-updates.cloudbees.com/download/plugins/cucumer-reports/5.8.1/cucumer-reports.hpi"
-      emailext-templates:
-        url: "https://jenkins-updates.cloudbees.com/download/plugins/emailext-templates/1.2/emailext-templates.hpi"
+      cucumber-reports:
+        url: "https://jenkins-updates.cloudbees.com/download/plugins/cucumber-reports/5.8.1/cucumber-reports.hpi"
+      emailext-template:
+        url: "https://jenkins-updates.cloudbees.com/download/plugins/emailext-template/1.5/emailext-template.hpi"
       extended-choice-parameter:
         url: "https://jenkins-updates.cloudbees.com/download/plugins/extended-choice-parameter/376.v2e02857547b_a_/extended-choice-parameter.hpi"
       gkp-credentials-plgin:
@@ -56,6 +56,6 @@ configurations:
       wikitext:
         url: "https://jenkins-updates.cloudbees.com/download/plugins/wikitext/3.16/wikitext.hpi"
       workflow-cps-global-lib:
-        url: "https://artifactory.jpmchase.net/org/jenkins-ci/plugins/workflow/workflow-cps-global-lib/609.vd95673f149b_b/workflow-cps-global-lib-609.vd95673f149b_b.hpi"
+        url: "https://jenkins-updates.cloudbees.com/download/plugins/workflow-cps-global-lib/612.v55f2f80781ef/workflow-cps-global-lib.hpi"
       xvfb:
         url: "https://jenkins-updates.cloudbees.com/download/plugins/xvfb/1.2/xvfb.hpi"

@@ -14,9 +14,9 @@ cloudbees-view-creation-filter
 cloudbees-workflow-template
 cloudbees-workflow-ui
 configuration-as-code
-cucumer-reports
+cucumber-reports
 email-ext
-emailext-templates
+emailext-template
 extended-choice-parameter
 git
 git-server

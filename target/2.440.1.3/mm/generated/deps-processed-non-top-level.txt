@@ -45,6 +45,7 @@ credentials-binding
 display-url-api
 durable-task
 echarts-api
+email-ext
 favorite
 font-awesome-api
 git
